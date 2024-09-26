@@ -1,0 +1,10 @@
+id: 01J8GVJJ9GA8F415NDEXRN4MCQ
+description: ''
+expected: ペーパーレス監査
+patterns:
+  - デジタル監査
+allows: []
+specs:
+  - from: デジタル監査
+    to: ペーパーレス監査
+tags: []
